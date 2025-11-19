@@ -1,4 +1,4 @@
-### Soundness Layer Testnet vApps
+## Soundness Layer Testnet vApps
 
 Verify GitHub ownership and submit vApp and zkApp proposals for Soundness Layer testnet access.
 
