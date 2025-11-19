@@ -27,7 +27,7 @@ Verify GitHub ownership and submit vApp and zkApp proposals for Soundness Layer 
 - Valid GitHub username (must match PR author)
 - Discord ID for verification
 - Technical architecture with SL integration
-- Realistic development timeline
+- Realistic development timeline.
 
 ## Process
 
